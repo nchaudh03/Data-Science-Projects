@@ -47,23 +47,3 @@ class nai():
     def run_class():
         pass
     
-
-    
-    
-    
-    
-
-
-# In[26]:
-
-
-p = r"C:\Users\gmin4\OneDrive\Desktop\Ml Housing Data\Result.csv"
-nai.read_csv(p)
-nai.get_date()
-
-
-# In[13]:
-
-
-
-
